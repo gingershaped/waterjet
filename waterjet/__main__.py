@@ -1,0 +1,2 @@
+import waterjet
+waterjet.main()

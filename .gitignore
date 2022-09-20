@@ -1,0 +1,8 @@
+.config/
+venv/
+pkds/
+planning/
+*.toml
+.replit
+*.nix
+poetry.lock
